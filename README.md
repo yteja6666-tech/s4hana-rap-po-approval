@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # S/4HANA RAP Purchase Order Approval System
 
 ## Overview
@@ -21,3 +22,6 @@ RAP-based Purchase Order Management with:
 1. Import all objects into ADT (Eclipse)
 2. Activate in order: CDS → Behavior → Service Definition → Service Binding
 3. Test via Fiori OData Service
+=======
+# s4hana-rap-po-approval
+>>>>>>> 63553af4398cdee95866a98d6c2dd896c17dab7a
